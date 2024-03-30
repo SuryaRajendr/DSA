@@ -1,0 +1,24 @@
+{
+  "files": {
+    "sorting/bubblesort.js": [
+      {
+        "id": "cbf3d522-0def-4f04-9041-81dd56d2d331",
+        "line": 3,
+        "version": 25,
+        "index": 53
+      },
+      {
+        "id": "a8f4d9bd-afcf-4980-9b92-a0f2760e6138",
+        "line": 5,
+        "version": 25,
+        "index": 133
+      },
+      {
+        "id": "e3fb03df-12ab-49b4-aa5f-4c147d927562",
+        "line": 7,
+        "version": 25,
+        "index": 201
+      }
+    ]
+  }
+}
