@@ -4,4 +4,5 @@ const basicoperations = require('./Linked List/basicoperations')
 
 const bubblesort = require('./sorting/bubblesort')
 const mergeSort = require('./sorting/mergeSort')
+console.log("check")
 console.log("Ayyapa")
